@@ -1,0 +1,10 @@
+body {
+  height: 100vh;
+  background-color: hsl(218, 23%, 16%);
+}
+
+#root {
+  height: 100%;
+  display: grid;
+  place-items: center;
+}
