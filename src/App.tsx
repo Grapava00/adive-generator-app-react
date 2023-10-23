@@ -4,7 +4,6 @@ import "./App.css";
 
 import iconDice from "./assets/icon-dice.svg";
 import dividerDesktop from "./assets/pattern-divider-desktop.svg";
-import dividerMobile from "./assets/pattern-divider-mobile.svg";
 
 const App = () => {
   const [advice, setAdvice] = React.useState({
